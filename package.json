@@ -23,7 +23,7 @@
     "@babel/preset-env": "^7.9.6",
     "@babel/register": "^7.9.0",
     "chai": "^4.2.0",
-    "css-loader": "^3.5.3",
+    "css-loader": "^7.1.5",
     "electron": "^8.3.0",
     "electron-builder": "^22.6.1",
     "electron-mocha": "^8.2.2",
